@@ -2,7 +2,7 @@
 
 Repositório que contém do projeto de Java antigo.
 
-##Funcionalidades
+## Funcionalidades
 
 1) Criação de Conta (Implementado)
 2) Criação/Edição de Pefil (Implementado)
