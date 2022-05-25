@@ -5,7 +5,7 @@ public class Main
     public static void main(String[] args) 
     {
         Rede iFace = new Rede();
-        /*
+    
        System.out.println("Criação da conta\n"); 
        iFace.createAccount();
        
@@ -20,6 +20,5 @@ public class Main
        
        System.out.println("Editando informações do usuário\n");
        iFace.editAccount();
-       */
     } 
 }
